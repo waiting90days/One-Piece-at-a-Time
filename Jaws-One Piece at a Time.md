@@ -11,7 +11,28 @@ https://drive.google.com/uc?id=1IG_VVsfLdcWV1umT4mvA8kpQ0RvwNgwI&sz=w400
 <body> The idea was to have a vehicle no one could guess -- even the most car-aficionado would wonder what drove past them
 On a budget as I was 26, in the miltary, raising a young family <body>
 
-### 1968 Pontiac Catalina
+
+<p style="font-size: 18px;"><![Image](https://drive.google.com/file/d/16gbr2Ye-u0uDq6a6-LQTc8xZUSaDn8Hm/preview alt="" title="" border="0" width="400" height="250" align="left" style="margin: 10px;"></p>
+
+<p style="font-size: 18px; margin-top: 0px !important;"><br></p>
+
+<p style=""><font face="Arial, Helvetica, sans-serif" style="font-size: 24px;" color="#003471"><strong style="">1<font style="">968 Pontiac Catalina</font></strong></font></p>
+
+
+
+<p style="font-size: 18px;"><font face="Arial, Helvetica, sans-serif" color="#003471">Base - 1968 Pontiac Catalina coupe.</font></p>
+
+<p style="font-size: 18px;"><font face="Arial, Helvetica, sans-serif" color="#003471">Chosen for its perfect long swooping sail panel, and wide track of the large B-body GM vehicles. Such beautiful contours from roof to trunk. Add in 2000, barely anyone was fixing late-60s Catalinas and could be easily found under $2000</font></p><font color="#7BCDC8" style="font-size: 18px;"><abbr data-wawebkitcopyendpointer="1">&nbsp;</abbr><strong><br></strong></font>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	### 1968 Pontiac Catalina
 	
 ![Image](https://drive.google.com/file/d/16gbr2Ye-u0uDq6a6-LQTc8xZUSaDn8Hm/preview width="640" height="480" allow="autoplay")(src)
 	
