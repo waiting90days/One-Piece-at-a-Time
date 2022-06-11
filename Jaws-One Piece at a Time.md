@@ -5,7 +5,7 @@ title: Test Your Knowledge
 
 ## Test Your Knowledge
 
-https://drive.google.com/u/2/folders/thumbnail?id=1IG_VVsfLdcWV1umT4mvA8kpQ0RvwNgwI&sz=w400
+https://drive.google.com/thumbnail?id=1IG_VVsfLdcWV1umT4mvA8kpQ0RvwNgwI&sz=w400
 
 
 <body> The idea was to have a vehicle no one could guess -- even the most car-aficionado would wonder what drove past them
