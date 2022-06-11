@@ -13,7 +13,7 @@ title: Test Your Knowledge
 
 <p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
 
-<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" align="left" style="margin: 10px;"></font></p>
+<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="012918-1968-Pontiac-Catalina-4-630x354.jpg" alt="" title="" border="0" width="250" height="250" align="left" style="margin: 10px;"></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>1968 Pontiac Catalina</strong></font></p>
 
