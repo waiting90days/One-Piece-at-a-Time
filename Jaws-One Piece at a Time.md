@@ -13,7 +13,7 @@ title: Test Your Knowledge
 
 <p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
 
-<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="012918-1968-Pontiac-Catalina-4-630x354.jpg" alt="" title="" border="0" width="250" height="250" align="left" style="margin: 10px;"></font></p>
+<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" align="left" style="margin: 10px;"></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>1968 Pontiac Catalina</strong></font></p>
 
@@ -23,7 +23,23 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" align="right" style="margin: 10px;"></font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="left"></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="right"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider dividerStyle002" data-wacomponenttype="ContentDivider"></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" align="right" style="margin: 10px;"></font></p>
+
+
 
 <p style="margin-bottom: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 8px;"><strong><br></strong></font></p>
 
@@ -37,19 +53,27 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471">I found the dash of the 68 Catalina especially ugly, and the donor 67 Grand Prix's dash was far more aggressive, with a simplistic muscle car feel</font></p>
 
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="left"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="right"><br></font></p>
+
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p style="margin-top: 0px !important; margin-bottom: 0px;"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="right"></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p style=""><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>Customization</strong></font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider dividerStyle002" data-wacomponenttype="ContentDivider"></font></p><p style="margin-top: 0px !important; margin-bottom: 0px;"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="right"></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>Customization</strong></font></p>
 
 <p style="margin-top: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471">All exterior badges and chrome shaved or painted. The original Pontiac Arrowhead (front bumper) is in the engine compartment, as is the "Pontiac" lettering (rear between the taillights) is in the trunk.</font></p>
 
-<p style=""><font face="Arial, Helvetica, sans-serif" color="#003471">The car was lowered 2", poor-man-style by cutting the coil springs</font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471">The car was lowered 2", poor-man-style by cutting the coil springs</font></p>
 
-<p style=""><font face="Arial, Helvetica, sans-serif" color="#003471">Many of the rear contours where flattened</font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471">Many of the rear contours where flattened</font></p>
 
 <p style="margin-bottom: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471">1991 Ford Taurus dash clock</font></p>
 
@@ -65,8 +89,4 @@ title: Test Your Knowledge
 
 <p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471">1959 Pontiac Catalina brake pedal</font></p>
 
-
-
 <p style="margin-top: 0px !important;"><br></p>
-
-<body>For more details see [Story Behind the Build]( <body>
