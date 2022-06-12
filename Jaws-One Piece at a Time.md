@@ -29,10 +29,9 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="cat.JPG" alt="" title="" border="0" width="450" height="250" style="margin: 10px auto; display: block;"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
 
-<p style="margin-bottom: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 8px;"><strong><br></strong></font></p>
+
 
 <p style="margin-top: 0px !important; margin-bottom: 0px;"><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>1967 Pontiac Grand Prix</strong></font></p>
 
