@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test Your Knowledge
+title: Jaws -- Test Your Knowledge
 ---
 
 <p style="margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><strong>Test Your Knowledge</strong></font></p>
