@@ -49,7 +49,7 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471">I found the dash of the 68 Catalina especially ugly, and the donor 67 Grand Prix's dash was far more aggressive, with a simplistic muscle car feel</font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="IMGP0343.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="left"><img src="gp.JPG" alt="" title="" border="0" width="400" height="300" style="margin: 10px;" align="right"><br></font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="IMGP0343.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;"><img src="gp.JPG" alt="" title="" border="0" width="400" height="300" style="margin: 10px auto; display: block;"><br></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
