@@ -25,7 +25,7 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="left"></font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="012918-1968-Pontiac-Catalina-4-630x354.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="left"></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="right"><br></font></p>
 
