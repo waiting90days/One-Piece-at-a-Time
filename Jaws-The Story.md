@@ -25,7 +25,7 @@ title: The Story Behind the Car
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>1940s Custom Hot Rods of the 80s.</STRONG></font></p>
 
-<p><img src="44 panel.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="left">
+<p><img src="44 panel.jpg" alt="" title="" border="0" width="400" height="230" style="margin: 10px;" align="left">
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif">Panel trucks, loved the themed panel trucks that were fun as a kid to find as many of the hiding animals, skulls, etc hidden around the vehicle.<br>49 Mercs with Corvette grills, where my all time favorite rod... again, big, heavy, low tot he ground... and the lowest and widest windows.<br>The paint jobs, the flames/scallops, the hand pinstriping... the outrageous colors.&nbsp;&nbsp;<br>The idea that they didn't care about resale value or if anyone else liked their vehicle.&nbsp; It was built for them and no one else.&nbsp; A nice thumb to the "numbers-matching" crowd.&nbsp;<br>The idea to shave the chrome, paint the bumpers, the theme for kids to enjoy, and of course a custom color of sea foam green.</font></p>
 
@@ -54,7 +54,7 @@ title: The Story Behind the Car
 
 <img src="lowrider.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
 
-<img src="lowrider paint.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
+<img src="lowrider paint.jpg" alt="" title="" border="0" width="400" height="300" style="margin: 10px auto; display: block;">
 
 
 
