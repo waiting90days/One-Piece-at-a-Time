@@ -60,10 +60,10 @@ title: The Story Behind the Car
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>60s Muscle Cars</STRONG></font></p>
 
-<p><img src="Pontiac-GTO.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="right">
+<p><img src="Pontiac-GTO.jpg" alt="" title="" border="0" width="400" height="230" style="margin: 10px;" align="right">
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif">The cars that simply looked like power.&nbsp; My favorite the GTO, but also a lover of all MOPAR of the mid to late 60s.&nbsp; Here are the engines, and the stances that just don't mess around.&nbsp; I loved as a kid looking in these engine compartments and seeing all the engines they had to offer, and all the stories of guys taking a simple crate engine and building it for speed.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">Then of course, Dukes of Hazard was my favorite show as a kid, who couldn't love the General Lee and all the jumps and racing around?</font></p>
 
-<img src="Dukes Hazzard.JPG" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
+<img src="Dukes Hazzard.JPG" alt="" title="" border="0" width="400" height="280" style="margin: 10px auto; display: block;">
 
-<img src="roadrunner.jpg" alt="" title="" border="0" width="400" height="300" style="margin: 10px auto; display: block;">
+<img src="roadrunner.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
