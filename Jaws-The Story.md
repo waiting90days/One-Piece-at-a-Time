@@ -19,11 +19,21 @@ title: The Story Behind the Car
 
 <p><img src="ranchero.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="right">
   
-<p><font color="#003471" face="Arial, Helvetica, sans-serif">There is always one car that starts it all... this was my Father's "Hot Rod" when I was a toddler.&nbsp; This is where I learned about stepping on the gas and taking a car to its limits, having a car is for the fun and love of driving, and glass packs of a loud exhaust make a heart race.&nbsp; My father put in many custom switches, most I no longer remember what they did, though I remember the ones that flipped off the tail and brake lights in case Police ever chased him due to speeding.&nbsp;&nbsp;<br>Sadly, it was sold to pay for the hospital bills for my younger sister.&nbsp; Though my father would never own a hot rodded car again, it stoked in my heart the need for an engine that goes.&nbsp; My car needed the largest engine available, and it was needed to&nbsp;</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>1958-59 Vehicles</STRONG></font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">My favorite years.&nbsp; Big.&nbsp; Wide.&nbsp; Heavy.&nbsp; Low to the ground.&nbsp; Rocket ship looks.<br>These weren't made to be the fastest cars, but did these things have momentum.&nbsp; I knew Jaws needed to have that same width and low to the ground stance.&nbsp; A heavy car that just demanded to be seen.&nbsp; It turned out the 1968 Pontiac Catalina had that wide heavy look, yet somehow still full of power.<br><br><br></font></p>
+<p><font color="#003471" face="Arial, Helvetica, sans-serif">There is always one car that starts it all... this was my Father's "Hot Rod" when I was a toddler.&nbsp; This is where I learned about stepping on the gas and taking a car to its limits, having a car is for the fun and love of driving, and glass packs of a loud exhaust make a heart race.&nbsp; My father put in many custom switches, most I no longer remember what they did, though I remember the ones that flipped off the tail and brake lights in case Police ever chased him due to speeding.&nbsp;&nbsp;<br>Sadly, it was sold to pay for the hospital bills for my younger sister.&nbsp; Though my father would never own a hot rodded car again, it stoked in my heart the need for an engine that goes.&nbsp; My car needed the largest engine available, and it was needed to&nbsp;</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
+
+<img src="58 Dodge.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
+
+
+
+<p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>1958-59 Vehicles</STRONG></font></p>
+
+<p><img src="1958-Pontiac-Bonneville-.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="right">
+
+<p><font color="#003471" face="Arial, Helvetica, sans-serif">My favorite years.&nbsp; Big.&nbsp; Wide.&nbsp; Heavy.&nbsp; Low to the ground.&nbsp; Rocket ship looks.<br>These weren't made to be the fastest cars, but did these things have momentum.&nbsp; I knew Jaws needed to have that same width and low to the ground stance.&nbsp; A heavy car that just demanded to be seen.&nbsp; It turned out the 1968 Pontiac Catalina had that wide heavy look, yet somehow still full of power.<br><br><br></font></p>
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>1940s Custom Hot Rods of the 80s.</STRONG></font></p>
 
-<p><img src="44 panel.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="left">
+<p><img src="44 panel.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="right">
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif">Panel trucks, loved the themed panel trucks that were fun as a kid to find as many of the hiding animals, skulls, etc hidden around the vehicle.<br>49 Mercs with Corvette grills, where my all time favorite rod... again, big, heavy, low tot he ground... and the lowest and widest windows.<br>The paint jobs, the flames/scallops, the hand pinstriping... the outrageous colors.&nbsp;&nbsp;<br>The idea that they didn't care about resale value or if anyone else liked their vehicle.&nbsp; It was built for them and no one else.&nbsp; A nice thumb to the "numbers-matching" crowd.&nbsp;<br>The idea to shave the chrome, paint the bumpers, the theme for kids to enjoy, and of course a custom color of sea foam green.</font></p>
 
