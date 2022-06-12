@@ -49,7 +49,6 @@ title: Test Your Knowledge
 
 
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider dividerStyle002" data-wacomponenttype="ContentDivider"></font></p><p style="margin-top: 0px !important; margin-bottom: 0px;"><img src="1990-Chrysler-LeBaron-(5).jpg" alt="" title="" border="0" width="450" height="250" style="margin: 10px;" align="right"></p>
 
