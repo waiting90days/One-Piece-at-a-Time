@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test Your Knowledge
+title: The Story Behind the Car
 ---
 
 <p><br></p>
@@ -9,7 +9,7 @@ title: Test Your Knowledge
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>The Story</STRONG></font></p>
 
-<p><img src="/resources/Pictures/Who%20Are%20We%20Pages%20Pics/Board%20of%20Directors/IMG_2136%20-%20Anthony%20Thomas.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px;" align="left"><font color="#003471" face="Arial, Helvetica, sans-serif">I grew up around car shows since an infant as my parents owned mainly Fords and Lincolns.&nbsp; In that time I grew to love certain cars, Corvettes first pulled me away from Fords, and then the love of the '55 Nomad.</font></p>
+<p><img src="henry j.jpg" alt="" title="" border="0" width="200" height="250" style="margin: 10px;" align="left"><font color="#003471" face="Arial, Helvetica, sans-serif">I grew up around car shows since an infant as my parents owned mainly Fords and Lincolns.&nbsp; In that time I grew to love certain cars, Corvettes first pulled me away from Fords, and then the love of the '55 Nomad.</font></p>
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif">The original idea for Jaws was from when, as a kid walking around car shows, most of the cars started to look repetitive.&nbsp; I wanted to have a vehicle no one could guess, no markers, no trim -- even the most car-aficionado would wonder what drove past them.. but had a gnarly engine that makes a lot of power</font></p>
 
