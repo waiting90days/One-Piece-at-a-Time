@@ -45,13 +45,9 @@ title: Test Your Knowledge
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="IMGP0343.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;"><img src="gp.JPG" alt="" title="" border="0" width="400" height="300" style="margin: 10px auto; display: block;"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p><p><font face="Arial, Helvetica, sans-serif" color="#003471"><br></font></p>
 
