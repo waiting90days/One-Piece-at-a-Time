@@ -46,4 +46,18 @@ title: The Story Behind the Car
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
 
-<p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>Mexican Lowriders</STRONG></font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">The paint jobs... This is where I fell in love with paint jobs.&nbsp; Huge metal flake (Jaws almost had it if it wasn't so difficult to paint).&nbsp; The Themes again throughout the car, but in a completely different tone.&nbsp; Making the car a work of art.&nbsp; And of course, lowering the car til it scraped the ground, especially in the 80s when hydraulics like today just weren't as prevalent.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">I cut my springs poor man style, but really in homage of these works of art... maybe someday I'll have enough guts to airbrush some art on Jaws.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>60s Muscle Cars</STRONG></font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">The cars that simply looked like power.&nbsp; My favorite the GTO, but also a lover of all MOPAR of the mid to late 60s.&nbsp; Here are the engines, and the stances that just don't mess around.&nbsp; I loved as a kid looking in these engine compartments and seeing all the engines they had to offer, and all the stories of guys taking a simple crate engine and building it for speed.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">Then of course, Dukes of Hazard was my favorite show as a kid, who couldn't love the General Lee and all the jumps and racing around?</font></p>
+<p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>Mexican Lowriders</STRONG></font></p>
+
+<p><img src="metal flake.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px;" align="left">
+
+<p><font color="#003471" face="Arial, Helvetica, sans-serif">The paint jobs... This is where I fell in love with paint jobs.&nbsp; Huge metal flake (Jaws almost had it if it wasn't so difficult to paint).&nbsp; The Themes again throughout the car, but in a completely different tone.&nbsp; Making the car a work of art.&nbsp; And of course, lowering the car til it scraped the ground, especially in the 80s when hydraulics like today just weren't as prevalent.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">I cut my springs poor man style, but really in homage of these works of art... maybe someday I'll have enough guts to airbrush some art on Jaws.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
+
+<img src="lowrider.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
+
+<img src="lowrider paint.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;">
+
+
+
+<p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>60s Muscle Cars</STRONG></font></p>
+
+<p><font color="#003471" face="Arial, Helvetica, sans-serif">The cars that simply looked like power.&nbsp; My favorite the GTO, but also a lover of all MOPAR of the mid to late 60s.&nbsp; Here are the engines, and the stances that just don't mess around.&nbsp; I loved as a kid looking in these engine compartments and seeing all the engines they had to offer, and all the stories of guys taking a simple crate engine and building it for speed.</font></p><p><font color="#003471" face="Arial, Helvetica, sans-serif">Then of course, Dukes of Hazard was my favorite show as a kid, who couldn't love the General Lee and all the jumps and racing around?</font></p>
