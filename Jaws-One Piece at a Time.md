@@ -13,9 +13,13 @@ title: Test Your Knowledge
 
 <p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><br></font></p>
 
-<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="cat1.JPG" alt="" title="" border="0" width="400" height="300" align="left" style="margin: 10px;"></font></p>
+
+
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>1968 Pontiac Catalina</strong></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="cat1.JPG" alt="" title="" border="0" width="400" height="300" align="left" style="margin: 10px;"></font></p>
+
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471">Base - 1968 Pontiac Catalina coupe.</font></p>
 
@@ -32,9 +36,10 @@ title: Test Your Knowledge
 
 
 
-<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="gp front.JPG" alt="" title="" border="0" width="400" height="300" align="left" style="margin: 10px;"></font></p>
 
 <p style="margin-top: 0px !important; margin-bottom: 0px;"><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>1967 Pontiac Grand Prix</strong></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif"><img src="gp front.JPG" alt="" title="" border="0" width="400" height="300" align="left" style="margin: 10px;"></font></p>
 
 <p><font face="Arial, Helvetica, sans-serif" color="#003471">The Front clip (front nose/bumper, front fenders, hood) and dashboard from donor car found in a wrecking yard.</font></p>
 
@@ -50,10 +55,9 @@ title: Test Your Knowledge
 
 
 
-
-<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider dividerStyle002" data-wacomponenttype="ContentDivider"></font></p><p style="margin-top: 0px !important; margin-bottom: 0px;"><img src="1990-Chrysler-LeBaron-(5).jpg" alt="" title="" border="0" width="450" height="250" style="margin: 10px;" align="right"></p>
-
 <p><font face="Arial, Helvetica, sans-serif" color="#003471" style="font-size: 30px;"><strong>Customization</strong></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" color="#003471"><img src="1990-Chrysler-LeBaron-(5).jpg" alt="" title="" border="0" width="450" height="250" style="margin: 10px;" align="right"></p>
 
 <p style="margin-top: 0px !important;"><font face="Arial, Helvetica, sans-serif" color="#003471">All exterior badges and chrome shaved or painted. The original Pontiac Arrowhead (front bumper) is in the engine compartment, as is the "Pontiac" lettering (rear between the taillights) is in the trunk.</font></p>
 
